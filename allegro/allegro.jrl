@@ -1,0 +1,77 @@
+\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Jul 31 12:24:22 2019
+\t (00:00:04)         Host=USER-PC User=user Pid=4528 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: C:/USERS/USER/DESKTOP/CHOPPING WAVE OSC/allegro/CHOPPING WAVE OSC.brd
+\i (00:00:06) trapsize 652
+\i (00:00:06) trapsize 667
+\i (00:00:06) trapsize 667
+\i (00:00:06) trapsize 533
+\i (00:00:06) trapsize 652
+\i (00:00:07) generaledit 
+\i (00:00:11) done 
+\i (00:00:11) place manual 
+\i (00:00:11) FORM plc_manual placement_list 
+\i (00:00:11) FORM plc_manual categories Components by refdes 
+\i (00:00:11) trapsize 652
+\i (00:00:12) setwindow form.plc_manual
+\i (00:00:12) FORM plc_manual advanced_settings  
+\i (00:00:12) FORM plc_manual library YES 
+\i (00:00:12) FORM plc_manual library NO 
+\i (00:00:13) FORM plc_manual placement_list  
+\i (00:00:14) FORM plc_manual advanced_settings  
+\i (00:00:14) FORM plc_manual library YES 
+\i (00:00:15) FORM plc_manual placement_list  
+\i (00:00:17) FORM plc_manual categories Package symbols 
+\i (00:00:20) FORM plc_manual alpha_filter DO35 
+\i (00:00:22) FORM plc_manual tree 'MULTISEL YES' DO35 'Package symbols' 
+\w (00:00:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:22) FORM plc_manual tree  DO35 'Package symbols' 
+\i (00:00:23) FORM plc_manual tree 'MULTISEL NO' DO35 'Package symbols' 
+\i (00:00:26) FORM plc_manual alpha_filter CAP196 
+\i (00:00:27) FORM plc_manual tree 'MULTISEL YES' CAP196 'Package symbols' 
+\i (00:00:27) FORM plc_manual tree  CAP196 'Package symbols' 
+\i (00:00:31) FORM plc_manual tree 'MULTISEL NO' CAP196 'Package symbols' 
+\i (00:02:01) FORM plc_manual alpha_filter DIP16 
+\i (00:02:04) FORM plc_manual alpha_filter DIP168 
+\i (00:02:07) FORM plc_manual alpha_filter DIP14 
+\i (00:02:10) FORM plc_manual alpha_filter DIP14* 
+\i (00:02:12) FORM plc_manual tree  DIP14_3 'Package symbols' 
+\i (00:02:12) FORM plc_manual tree 'MULTISEL YES' DIP14_3 'Package symbols' 
+\w (00:02:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:19) FORM plc_manual cancel  
+\i (00:02:20) setwindow pcb
+\i (00:02:20) generaledit 
+\i (00:03:28) xdehilite 
+\i (00:03:28) xname_flush 
+\i (00:03:28) done 
+\i (00:03:28) generaledit 
+\i (00:03:28) xhilite 
+\i (00:03:28) xname_flush 
+\i (00:03:28) done 
+\i (00:03:28) generaledit 
+\i (00:03:29) xdehilite 
+\i (00:03:29) xname_flush 
+\i (00:03:29) done 
+\i (00:03:29) generaledit 
+\i (00:03:33) xhilite 
+\i (00:03:33) xname_flush 
+\i (00:03:33) done 
+\i (00:03:33) generaledit 
+\i (00:07:15) xhilite 
+\i (00:07:15) xname_flush 
+\i (00:07:15) done 
+\i (00:07:15) generaledit 
+\i (00:07:30) xdehilite 
+\i (00:07:30) xname_flush 
+\i (00:07:30) done 
+\i (00:07:30) generaledit 
+\i (00:07:38) exit 
+\e (00:07:38) Do you want to save the changes you made to CHOPPING WAVE OSC.brd?
+\i (00:07:40) fillin no 
+\t (00:07:40)     Journal end - Wed Jul 31 12:31:59 2019

@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : CHOPPING WAVE OSC.brd                         )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Jul 31 11:00:50 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 2
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (72.849 24.448)  Net: GND
+	Point on shape: (22.688 51.427)  Net: GND
